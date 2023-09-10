@@ -1,3 +1,5 @@
+Original repository is https://github.com/tomoyuki-nakabayashi/wio-examples-template
+
 # wio-examples-template
 
 Wio Terminal でデバイスを試すための組込み Rust プロジェクトです。
